@@ -4,7 +4,7 @@ React app for searching users and showing their info.
 
 ### Stack:
 
-Languages: `HTML5, CSS3, SASS, JavaScript (ES6)`
+Languages: `HTML5, CSS3, JavaScript (ES6)`
 
 Framework: `React, Materialize`
 
