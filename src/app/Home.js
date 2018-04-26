@@ -175,7 +175,7 @@ class Home extends Component {
 render() {
 
   return ( <React.Fragment >
-      <Header title = 'BIT Persons' homePath = {this.props.match.path }
+      <Header title = 'BIT People' homePath = {this.props.match.path }
       handleClick = {this.handleClick}
       changeList = {this.state.showGrid }
       handleRefresh = { this.handleRefresh  }/> 
