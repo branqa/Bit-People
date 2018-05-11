@@ -2,6 +2,8 @@
 
 React app for searching users and showing their info.
 
+Demo: [Bit-People](https://branqa.github.io/Bit-People/#/)
+
 ### Stack:
 
 Languages: `HTML5, CSS3, JavaScript (ES6)`
