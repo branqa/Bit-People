@@ -6,11 +6,7 @@ Demo: [Bit-People](https://branqa.github.io/Bit-People/#/)
 
 ### Stack:
 
-Languages: `HTML5, CSS3, JavaScript (ES6)`
-
-Framework: `React, Materialize`
-
-Package Manager: `Npm`
+Technologies: `HTML5, CSS3, JavaScript (ES6), React, Materialize, Npm`
 
 ### Screenshots
 
