@@ -6,7 +6,7 @@ Demo: [Bit-People](https://branqa.github.io/Bit-People/#/)
 
 ### Stack:
 
-Technologies: `HTML5, CSS3, JavaScript (ES6), React, Materialize, Npm`
+Technologies: `HTML5, CSS3, JavaScript (ES6), React, Materialize`
 
 ### Screenshots
 
